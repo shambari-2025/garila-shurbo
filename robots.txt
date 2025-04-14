@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /ckeditor/
+Disallow: /ckfinder/
+Disallow: /lib/
+Disallow: /sessions/
